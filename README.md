@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 I'm _Kay_ (she/they)! I’m a student currently enrolled in the Software Development program at Mohawk College!
-Prior to formal education, I was self-taught HTML & CSS for **hobby web development** on microblogging websites and forums!
+Prior to enrolling in formal education for development, I was self-taught HTML & CSS for **hobby web development** on microblogging websites and forums!
